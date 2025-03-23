@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hello-world",
+    "imageUri": "883697147971.dkr.ecr.us-east-1.amazonaws.com/ea-ppaul-001:mypyapp.1.1"
+  }
+]
